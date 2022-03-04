@@ -1,9 +1,13 @@
 package `0001`
 
-import readInt
 import readLong
 import kotlin.math.ceil
 import kotlin.math.pow
+
+/*
+    Author  :   Gustavo Lizárraga
+    Link    :   http://codeforces.com/problemset/problem/1/A
+*/
 
 fun main() {
     val n = readLong()
